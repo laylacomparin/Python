@@ -96,13 +96,14 @@ house = [["hallway", hall],
          ["kitchen", kit],
          ["living room", liv],
          ["bedroom", bed],
-         ["bathroom", bath]]
+         ["bathroom", bath]
+         ]
 
 # Print out house
 print(house)
 
 # Print out the type of house
-type(house)
+print(type(house))
 
 ## Subset and conquer ##
 
