@@ -337,3 +337,4 @@ areas_copy[0] = 5.0
 
 # Print areas
 print(areas)
+
