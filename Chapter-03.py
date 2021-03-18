@@ -1,7 +1,7 @@
 ################################################
 # Introduction to Python
 # Chapter 03
-# por Layla Comparin
+# by Layla Comparin
 ################################################
 
 ## Familiar functions ##

@@ -1,7 +1,7 @@
 ################################################
 # Introduction to Python
 # Chapter 02
-# por Layla Comparin
+# by Layla Comparin
 ################################################
 
 ## Create a list ## 

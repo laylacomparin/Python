@@ -1,7 +1,7 @@
 ################################################
 # Introduction to Python
 # Chapter 01
-# por Layla Comparin
+# by Layla Comparin
 ################################################
 
 ## The Python Interface ##
